@@ -32,6 +32,7 @@ jobs:
         cd POC && rm -rf .git && mv README.md ../../README.md && mv * ../
         cd ../ && rm -r POC && cd ../
         echo "$(date '+%Y-%m-%d %H:%M:%S')" > ./time
+        python3 update_sidebar.py
         echo "当前目录：`pwd`"
         echo "正在初始化远程仓库"
         git add .
@@ -40,10 +41,5 @@ jobs:
         git commit -m "$(date '+%Y-%m-%d %H:%M')"
         git push origin main -f
         exit_status=$?
-        if [[ $exit_status -eq 0 ]]; then
-        	echo "提交成功 -> https://poc.wjlin0.com"
-        else
-        	echo "提交失败: $exit_status"
-        fi
       env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
