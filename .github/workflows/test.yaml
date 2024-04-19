@@ -1,6 +1,7 @@
 name: Custom Script
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *' # 设置为每天UTC时间的午夜执行，可以根据需要调整
 
