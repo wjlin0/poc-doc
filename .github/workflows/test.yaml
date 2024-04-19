@@ -28,6 +28,8 @@ jobs:
         cd ../ && rm -r POC && cd ../
         echo "当前目录：`pwd`"
         echo "正在初始化远程仓库"
+        git config user.name "$username"
+        git config user.email "$email"
         git add .
         git commit -m "$(date '+%Y-%m-%d %H:%M')" 1>/dev/null 2>&1
         git push origin main -f
@@ -39,3 +41,5 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        username: "${{ secrets.USERNAME }}"
+        email: "${{ secrets.EMAIL }}"
