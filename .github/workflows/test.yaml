@@ -21,6 +21,7 @@ jobs:
 
     - name: Execute custom script
       run: |
+        echo "当前目录：`pwd`"
         git clone https://github.com/wjlin0/poc-doc.git
         cd poc-doc && rm -r docs  && mkdir -p docs && cd ./docs
         git clone https://github.com/wy876/POC.git
