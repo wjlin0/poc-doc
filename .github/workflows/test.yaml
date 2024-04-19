@@ -37,6 +37,8 @@ jobs:
         echo "当前目录：`pwd`"
         echo "正在初始化远程仓库"
         git add .
+        git config  user.name "${{ secrets.USERNAME }}"
+        git config  user.email "${{ secrets.EMAIL }}"
         git commit -m "$(date '+%Y-%m-%d %H:%M')"
         git push origin main -f
         exit_status=$?
