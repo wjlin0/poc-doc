@@ -26,4 +26,5 @@ lines = ["* [首页](/)\n"]
 for md_file in md_files:
     line = f"* [{md_file[1]}]({quote(md_file[0])})"
     lines.append(line+"\n")
+    print(line)
 open("_sidebar.md","w").writelines(lines)
