@@ -27,6 +27,7 @@ jobs:
         git clone https://github.com/wy876/POC.git
         cd POC && rm -rf .git && mv README.md ../../README.md && mv * ../
         cd ../ && rm -r POC && cd ../
+        echo "$(date '+%Y-%m-%d %H:%M:%S')" > ./time
         echo "当前目录：`pwd`"
         echo "正在初始化远程仓库"
         git config user.name "$username"
