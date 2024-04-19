@@ -1,0 +1,26 @@
+name: Custom Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 设置为每天UTC时间的午夜执行，可以根据需要调整
+
+jobs:
+  custom_script:
+    name: Run Custom Script
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Execute custom script
+      run: |
+        git clone https://github.com/wjlin0/poc-doc.git
+        cd poc-doc && ./build.sh
+      env:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
