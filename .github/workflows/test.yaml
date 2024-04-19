@@ -18,7 +18,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-
+    - name: Configure Git
+      run: |
+        git config --global user.name "${{ secrets.USERNAME }}"
+        git config --global user.email "${{ secrets.EMAIL }}"
+      env:
+        USERNAME: ${{ secrets.USERNAME }}
+        EMAIL: ${{ secrets.EMAIL }}
     - name: Execute custom script
       run: |
         echo "当前目录：`pwd`"
@@ -30,8 +36,6 @@ jobs:
         echo "$(date '+%Y-%m-%d %H:%M:%S')" > ./time
         echo "当前目录：`pwd`"
         echo "正在初始化远程仓库"
-        git config user.name "$username"
-        git config user.email "$email"
         git add .
         git commit -m "$(date '+%Y-%m-%d %H:%M')"
         git push origin main -f
@@ -43,5 +47,3 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-        username: "${{ secrets.USERNAME }}"
-        email: "${{ secrets.EMAIL }}"
