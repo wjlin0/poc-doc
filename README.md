@@ -11,6 +11,9 @@
 - WIFISKY-7层流控路由器confirm.php接口处存在RCE漏洞
 - 泛微E-Office-uploadfile.php任意文件上传漏洞
 - 宏景HCM系统infoView处存在sql注入漏洞
+- 卡车卫星定位系统create存在未授权密码重置漏洞
+- 脸爱云一脸通智慧管理平台存在downloads.aspx信息泄露漏洞
+- 脸爱云一脸通智慧平台SelOperators信息泄露漏洞
 
 ## 2024.04.19 新增漏洞
 - 用友U8GRP-fastjson
