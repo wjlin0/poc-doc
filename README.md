@@ -1,6 +1,19 @@
 # 漏洞收集
 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
 
+## 2024.04.27 新增漏洞
+- 通达OA-WHERE_STR存在前台SQL注入漏洞
+- 用友GRP-U8-obr_zdybxd_check存在sql注入漏洞
+- 用友畅捷通TPlus-InitServerInfo存在SQL注入漏洞
+- 用友畅捷通-TPlus-CheckMutex存在sql注入漏洞
+- 用友畅捷通TPlus-DownloadProxy.aspx任意文件读取漏洞
+- 用友畅捷通CRM-create_site.phpSQL注入漏洞
+- MajorDoMo-thumb.php未授权RCE漏洞复现(CNVD-2024-02175)
+- 普元EOS-Platform-eos.jmx存在远程代码执行漏洞
+- 普元EOS-Platform-jmx.jmx存在远程代码执行漏洞(XVE-2023-24691)
+- 用友U8-Cloud-TableInputOperServlet存在反序列化漏洞
+- 湖南建研质量监测系统upload.ashx文件上传漏洞
+
 ## 2024.04.23 新增漏洞
 - 网动统一通信平台ActiveUC存在任意文件下载漏洞
 - 锐捷校园网自助服务系统operatorReportorRoamService存在SQL注入漏洞
