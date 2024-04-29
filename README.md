@@ -1,6 +1,21 @@
 # 漏洞收集
 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
 
+## 2024.04.28 新增漏洞
+- 用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞
+- 用友GRP-U8-listSelectDialogServlet存在SQL注入
+- 用友GRP-U8-bx_dj_check.jsp存在SQL注入
+- 用友GRP-U8-obr_zdybxd_check.jsp存在SQL注入
+- 用友GRP-U8-userInfoWeb存在SQL注入
+- 用友GRP-U8-dialog_moreUser_check.jsp前台SQL注入
+- 用友GRP-U8-Proxy存在SQL注入漏洞
+- 用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞
+- 用友GRP-U8-FileUpload任意文件上传
+- 用友GRP-U8-UploadFileData任意文件上传
+- 用友GRP-U8-ufgovbank存在XXE漏洞
+- 用友GRP-U8-PayReturnForWcp接口存在XXE漏洞
+- 用友GRP-U8日志泄漏漏洞
+  
 ## 2024.04.27 新增漏洞
 - 通达OA-WHERE_STR存在前台SQL注入漏洞
 - 用友GRP-U8-obr_zdybxd_check存在sql注入漏洞
@@ -13,6 +28,10 @@
 - 普元EOS-Platform-jmx.jmx存在远程代码执行漏洞(XVE-2023-24691)
 - 用友U8-Cloud-TableInputOperServlet存在反序列化漏洞
 - 湖南建研质量监测系统upload.ashx文件上传漏洞
+- 脸爱云一脸通智慧管理平台存在UpLoadPic.ashx文件上传漏洞
+- ZenML服务器远程权限提升漏洞(CVE-2024-25723)
+- WordPress插件NotificationX存在sql注入漏洞(CVE-2024-25832)
+- CrushFTP服务器端模板注入(CVE-2024-4040)
 
 ## 2024.04.23 新增漏洞
 - 网动统一通信平台ActiveUC存在任意文件下载漏洞
