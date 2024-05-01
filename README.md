@@ -1,6 +1,17 @@
 # 漏洞收集
 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
 
+## 2024.04.30 新增漏洞
+- 亿赛通电子文档安全管理系统-jlockseniordao-findbylockname-sql注入漏洞
+- 亿赛通电子文档安全管理系统-MailMessageLogServices反序列漏洞
+- 亿赛通电子文档安全管理系统RestoreFiles任意文件读取漏洞
+- 蓝网科技临床浏览系统-deleteStudy-SQL注入漏洞复现(CVE-2024-4257)
+- Pkpmbs建设工程质量监督系统FileUpOrDown.ashx存在文件上传漏洞
+- Mingsoft-MCMS前台查询文章列表接口SQL注入(CNVD-2024-06148)
+- 广州图书馆集群系统WebBookNew存在SQL注入漏洞
+- Likeshop-formimage任意文件上传
+- X2Modbus网关GetUser接口存在信息泄漏漏洞
+
 ## 2024.04.28 新增漏洞
 - 用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞
 - 用友GRP-U8-listSelectDialogServlet存在SQL注入
