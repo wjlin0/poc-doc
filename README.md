@@ -11,6 +11,10 @@
 - 广州图书馆集群系统WebBookNew存在SQL注入漏洞
 - Likeshop-formimage任意文件上传
 - X2Modbus网关GetUser接口存在信息泄漏漏洞
+- WordPress-Automatic插件存在SQL注入漏洞(CVE-2024-27956)
+- 北京中科聚网一体化运营平台catchByUrl存在文件上传漏洞
+- LiveGBS存在逻辑缺陷漏洞(CNVD-2023-72138)
+- 北京亚控科技KingPortal开发系统漏洞集合
 
 ## 2024.04.28 新增漏洞
 - 用友GRP-U8-slbmbygr.jsp存在SQL注入漏洞
@@ -41,7 +45,7 @@
 - 湖南建研质量监测系统upload.ashx文件上传漏洞
 - 脸爱云一脸通智慧管理平台存在UpLoadPic.ashx文件上传漏洞
 - ZenML服务器远程权限提升漏洞(CVE-2024-25723)
-- WordPress插件NotificationX存在sql注入漏洞(CVE-2024-25832)
+- WordPress插件NotificationX存在sql注入漏洞(CVE-2024-1698)
 - CrushFTP服务器端模板注入(CVE-2024-4040)
 
 ## 2024.04.23 新增漏洞
