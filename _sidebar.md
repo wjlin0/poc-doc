@@ -357,6 +357,7 @@
 * [通达OA get_datas.php前台sql注入](docs/%E9%80%9A%E8%BE%BEOA%20get_datas.php%E5%89%8D%E5%8F%B0sql%E6%B3%A8%E5%85%A5.md)
 * [联达OA-UpLoadFile.aspx存在任意文件上传漏洞](docs/%E8%81%94%E8%BE%BEOA-UpLoadFile.aspx%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [网康科技NS-ASG应用安全网关config_Anticrack.php存在SQL注入漏洞](docs/%E7%BD%91%E5%BA%B7%E7%A7%91%E6%8A%80NS-ASG%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E7%BD%91%E5%85%B3config_Anticrack.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [大华智慧园区综合管理平台ipms接口存在远程代码执行漏洞](docs/%E5%A4%A7%E5%8D%8E%E6%99%BA%E6%85%A7%E5%9B%AD%E5%8C%BA%E7%BB%BC%E5%90%88%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0ipms%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [云时空社会化商业ERP系统validateLoginName接口处存在SQL注入漏洞](docs/%E4%BA%91%E6%97%B6%E7%A9%BA%E7%A4%BE%E4%BC%9A%E5%8C%96%E5%95%86%E4%B8%9AERP%E7%B3%BB%E7%BB%9FvalidateLoginName%E6%8E%A5%E5%8F%A3%E5%A4%84%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [TP-Link-ER7206存在命令注入漏洞](docs/TP-Link-ER7206%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [明源云 ERP ApiUpdate.ashx 文件上传漏洞](docs/%E6%98%8E%E6%BA%90%E4%BA%91%20ERP%20ApiUpdate.ashx%20%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
