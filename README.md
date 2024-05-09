@@ -1,6 +1,20 @@
 # 漏洞收集
 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
 
+## 2024.05.08 新增漏洞
+- 用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞
+- 用友时空KSOA-linkadd.jsp存在SQL注入漏洞
+- MetaCRM客户关系管理系统任意文件上传漏洞
+- 用友U8-CRM客户关系管理系统getemaildata.php任意文件上传漏洞
+- 电信网关配置管理后台ipping.php存在命令执行漏洞
+- 瑞友天翼应用虚拟化系统appsave接口存在SQL注入漏洞
+- 泛微OA-E-Cology-FileDownload文件读取漏洞
+- 用友GRPA++Cloud政府财务云存在任意文件读取漏洞
+- 致远M3敏感信息泄露漏洞
+- Jan任意文件上传漏洞
+- Jeecg任意文件上传漏洞
+- 医院挂号系统SQL注入
+
 ## 2024.05.02 新增漏洞
 - 和丰多媒体信息发布系统QH.aspx存在文件上传漏洞
 - 用友NC-bill存在SQL注入漏洞
