@@ -415,6 +415,7 @@
 * [用友NC的download文件存在任意文件读取漏洞](docs/%E7%94%A8%E5%8F%8BNC%E7%9A%84download%E6%96%87%E4%BB%B6%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [用友U8_cloud_KeyWordDetailReportQuery_SQL注入漏洞](docs/%E7%94%A8%E5%8F%8BU8_cloud_KeyWordDetailReportQuery_SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [捷诚管理信息系统sql注入漏洞](docs/%E6%8D%B7%E8%AF%9A%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9Fsql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [中移铁通禹路由器信息泄露漏洞](docs/%E4%B8%AD%E7%A7%BB%E9%93%81%E9%80%9A%E7%A6%B9%E8%B7%AF%E7%94%B1%E5%99%A8%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E.md)
 * [广州图创图书馆集群管理系统updOpuserPw接口存在SQL注入漏洞](docs/%E5%B9%BF%E5%B7%9E%E5%9B%BE%E5%88%9B%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FupdOpuserPw%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [SysAid远程命令执行漏洞（CVE-2023-47246）](docs/SysAid%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2023-47246%EF%BC%89.md)
 * [通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞](docs/%E9%80%9A%E5%A4%A9%E6%98%9F-CMSV6-inspect_file-upload%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
