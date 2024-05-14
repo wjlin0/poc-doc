@@ -1,6 +1,14 @@
 # 漏洞收集
 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
 
+## 2024.05.13 新增漏洞
+- 用友NC系统registerServlet接口存在JNDI注入漏洞
+- 微擎-AccountEdit-file-upload文件上传漏洞
+- RuvarOA协同办公平台多处存在SQL注入漏洞
+- 微厦在线学习平台OrganSetup存在任意文件上传漏洞
+- 泛微E-Cology系统接口SignatureDownLoad存在SQL注入漏洞
+- 用友NC系统printBill接口存在任意文件读取漏洞
+
 ## 2024.05.08 新增漏洞
 - 用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞
 - 用友时空KSOA-linkadd.jsp存在SQL注入漏洞
