@@ -1,5 +1,5 @@
 # 漏洞收集
-收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了400多个poc/exp，善用CTRL+F搜索
+收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了500多个poc/exp，善用CTRL+F搜索
 
 ## 2024.05.13 新增漏洞
 - 用友NC系统registerServlet接口存在JNDI注入漏洞
@@ -12,6 +12,9 @@
 - 锐捷网络flwo.control.php存在RCE漏洞
 - 亿赛通电子文档安全管理系统-UploadFileManagerService-任意文件读取漏洞
 - 大华ICC智能物联综合管理平台存在fastjson漏洞
+- 联软安渡UniNXG安全数据交换系统poserver.zz存在任意文件读取漏洞
+- 世纪信通管理系统DownLoadFiles.ashx存在任意文件读取
+- 亿赛通电子文档安全管理系统downloadfromfile存在任意文件读取漏洞
 
 ## 2024.05.08 新增漏洞
 - 用友畅捷通TPlus-keyEdit.aspx接口存在SQL注入漏洞
