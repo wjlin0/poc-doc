@@ -1,12 +1,31 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了500多个poc/exp，善用CTRL+F搜索
 
+## 2024.05.28 新增漏洞
+
+- DCN有线无线智能一体化控制器WEB管理系统
+- 用友NC系统linkVoucher存在sql注入漏洞
+- 锐捷RG-UAC统一上网行为管理审计系统online.php存在远程代码执行
+- 锐捷RG-UAC统一上网行为管理审计系统static_route_edit_ipv6.php存在远程代码执行
+- 锐捷RG-UAC统一上网行为管理审计系统sub_commit.php存在远程代码执行
+- 锐捷RG-UAC统一上网行为管理审计系统user_commit.php存在远程代码执行
+- 锐捷RG-UAC统一上网行为管理审计系统vlan_add_commit.php存在远程代码执行
+- 大华智慧园区综合管理平台user_getUserInfoByUserName.action未授权任意用户密码读取
+- 锐捷RG-EW1200G无线路由器登录绕过
+- Jeecg-jeecgFormDemoController存在JNDI代码执行漏洞
+- WordPress-Dropdown-CF7插件存在sql注入漏洞(CVE-2024-3495)
+- WordPress-WebDirectory插件存在sql注入(CVE-2024-3552)
+- WordPress的Business-Directory插件存在sql注入漏洞(CVE-2024-4443)
+- 因酷教育软件开源网校程序gok4任意文件上传漏洞
 
 ## 2024.05.25 新增漏洞
 
 - 瑞星EDR-XSS漏洞可打管理员cookie
+
 - 金山云EDR任意文件上传漏洞
+
 - HM发卡网反序列化漏洞
+
 - Nexus未授权目录穿越漏洞(CVE-2024-4956)
 - 泛微E-cology-LoginSSO.jsp存在QL注入漏洞(CNVD-2021-33202)
 - 万户ezEIP-success.aspx存在反序列化漏洞
@@ -605,7 +624,7 @@
 - 致远OA wpsAssistServlet任意文件读取漏洞
 - 金和OA任意文件读取漏洞
   
-## 2023.11.03
+## 2023.11.03 新增漏洞
 - XXL-JOB默认accessToken身份绕过漏洞
 - Confluence身份认证绕过(CVE-2023-22518)
   
