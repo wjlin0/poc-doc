@@ -1,6 +1,66 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了600多个poc/exp，善用CTRL+F搜索
 
+## 2024.06.14 新增漏洞
+
+- 致远oa系统saveFormula4Cloud存在JNDI注入
+- 用友NC-oacoSchedulerEvents接口存在sql注入漏洞
+- 致远OA帆软组件ReportServer目录遍历漏洞
+- 泛微-eoffice-webservice-file-upload任意文件上传漏洞
+- 泛微e-office-mobile_upload_save存在任意文件上传漏洞
+- 泛微e-office-uploadify.php存在任意文件上传漏洞
+- 世邦通信SPON-IP网络对讲广播系统addscenedata.php任意文件上传漏洞
+- 电信网关配置管理后台del_file.php接口存在命令执行漏洞
+- Ivanti-EPM存在SQL注入漏洞(CVE-2024-29824)
+- JEPaaS低代码平台j_spring_security_check存在SQL注入漏洞
+- 东胜物流软件GetProParentModuTreeList存在SQL注入漏洞
+- 锐捷NBR系列路由器存在管理员密码重置漏洞
+- 海洋CMS-admin_notify.php远程代码执行漏洞
+- SolarWinds-Serv-U目录遍历漏洞(CVE-2024-28995)
+
+## 2024.06.11 新增漏洞
+
+- 海康威视综合安防管理平台keepAlive远程代码执行漏洞
+- 金和OA-C6-download.jsp任意文件读取漏洞
+- 锐捷校园网自助服务系统login_judge.jsf任意文件读取漏洞(XVE-2024-2116)
+- HFS2.3未经身份验证的远程代码执行(CVE-2024-23692)
+- 29网课交单平台epay.php存在SQL注入漏洞
+- 多客圈子论坛系统httpGet任意文件读取漏洞复现
+
+## 2024.06.07 新增漏洞
+
+- 天智云智造管理平台Usermanager.ashx存在SQL注入漏洞
+- 海康威视综合安防管理平台productFile远程代码执行
+- 海康威视综合安防管理平台applyAutoLoginTicket远程代码执行漏洞
+- showdoc3.2.4-phar反序列漏洞复现
+- Progress-Telerik-Report-Server身份验证绕过(CVE-2024-4358)
+- 悟空CRM9.0-fastjson远程代码执行漏洞(CVE-2024-23052)
+- PHP-CGI-Windows平台远程代码执行漏洞(CVE-2024-4577)
+- 用友NC-downCourseWare任意文件读取
+- 用友-U9-PatchFile.asmx任意文件上传漏洞
+- Apache-HugeGraph-Server远程代码执行漏洞(CVE-2024-27348)
+
+## 2024.06.05 新增漏洞
+
+- Symfony-app_dev.php信息泄露漏洞
+- 泛微OA-E-cology8-SptmForPortalThumbnail.jsp任意文件读取漏洞
+- O2OA远程命令执行(CVE-2022-22916)
+- 大华DSS城市安防监控平台login_init.action接口存在Struct2-045命令执行漏洞
+- H3C-CVM-upload接口前台任意文件上传漏洞复现
+- 用友NC-pagesServlet存在SQL注入
+- 宏景HCM-pos_dept_post存在SQL注入漏洞
+- 迈普多业务融合网关send_order.cgi存在命令执行漏洞
+- HSC-Mailinspector-loader.php存在任意文件读取漏洞(CVE-2024-34470)
+- Minio-verify信息泄露(CVE-2023-28432)
+- OrangeHRM-viewProjects接口存在SQL注入漏洞(CVE-2024-36428)
+- ShowDoc3.2.5存在SQL注入漏洞
+- mysql2原型污染漏洞(CVE-2024-21512)
+- 亿赛通-电子文档安全管理系统SaveCDGPermissionFromGFOA接口存在sql注入漏洞
+- Apache-OFBiz存在路径遍历导致RCE漏洞(CVE-2024-36104)
+- 飞企互联-FE企业运营管理平台treeXml.jsp存在SQL注入漏洞
+- 泛微E-Office-json_common.phpSQL注入漏洞
+- 泛微E-Office系统login_other.php存在sql注入漏洞
+
 ## 2024.06.02 新增漏洞
 
 - 海康威视综合安防download存在任意文件读取漏洞
