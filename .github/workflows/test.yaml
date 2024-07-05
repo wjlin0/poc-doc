@@ -20,10 +20,9 @@ jobs:
         python-version: '3.x'
     - name: Execute custom script
       run: |
-        rm -r docs  && mkdir -p docs && cd ./docs
+        mkdir -p docs && cd ./docs
         git clone https://github.com/wy876/POC.git
-        cd POC && rm -rf .git && mv README.md ../../README.md && mv * ../
-        cd ../ && rm -r POC && cd ../
+        cd POC && rm -rf .git && cd ../ && mv POC wy876_poc && cd ../
         echo "$(date '+%Y-%m-%d %H:%M:%S')" > ./time
         python update_sidebar.py
         echo "当前目录：`pwd`"
