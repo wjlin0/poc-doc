@@ -72,7 +72,6 @@ def build_directory_structure(directory):
 
 
 def for_key(fatherKey, structure):
-
     if structure == {}:
         set_chi_sidebar(fatherKey)
         return
@@ -85,7 +84,7 @@ def for_key(fatherKey, structure):
             lines = [f"* [上一级]({shang})\n"]
         else:
             lines = [f"* [上一级]({shang}/)\n"]
-
+        lines.append(f"* [说明]({fatherKey})\n")
         for md_file in md_files:
             if '_sidebar' in md_file[0]:
                 continue
@@ -93,7 +92,6 @@ def for_key(fatherKey, structure):
                 continue
             line = f"* [{md_file[1]}]({quote(md_file[0])})"
             lines.append(line + "\n")
-
 
         open(os.path.join(fatherKey, "README.md"), "w").writelines(lines)
     elif os.path.getsize(os.path.join(fatherKey, "README.md")) == 0:
@@ -104,22 +102,21 @@ def for_key(fatherKey, structure):
             shang = '/'
 
         lines = [f"* [上一级]({shang})\n"]
-
+        lines.append(f"* [说明]({fatherKey})\n")
         for md_file in md_files:
             if '_sidebar' in md_file[0]:
                 continue
             line = f"* [{md_file[1]}]({quote(md_file[0])})"
             lines.append(line + "\n")
 
-
         open(os.path.join(fatherKey, "README.md"), "w").writelines(lines)
-
 
     shang = os.path.normpath(os.path.join(fatherKey, '../'))
     if shang == "docs":
         lines = "* [上一级](/)\n"
     else:
         lines = f"* [上一级]({shang}/)\n"
+    lines += f"* [说明]({fatherKey})\n"
     for key in structure.keys():
         name = str(key).split("/")[-1]
 
@@ -135,10 +132,5 @@ def for_key(fatherKey, structure):
 directory = './docs/wy876_poc'
 structure = build_directory_structure(directory)
 
-
 for key in structure.keys():
     for_key(key, structure[key])
-
-
-
-
