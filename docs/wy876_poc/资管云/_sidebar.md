@@ -1,0 +1,2 @@
+* [上一级](docs/wy876_poc/)
+* [资管云comfileup.php前台文件上传漏洞(XVE-2024-18154)](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E8%B5%84%E7%AE%A1%E4%BA%91comfileup.php%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%28XVE-2024-18154%29.md)

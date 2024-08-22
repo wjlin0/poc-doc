@@ -1,0 +1,2 @@
+* [上一级](docs/wy876_poc/)
+* [彩票系统存在任意文件preview.php上传漏洞](docs/wy876_poc/%E8%8F%A0%E8%8F%9C/%E5%BD%A9%E7%A5%A8%E7%B3%BB%E7%BB%9F%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6preview.php%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
