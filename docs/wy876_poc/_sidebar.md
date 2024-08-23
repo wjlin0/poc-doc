@@ -1510,6 +1510,7 @@
 * [RAISECOM网关设备list_base_config.php存在远程命令执行漏洞](docs/wy876_poc/RAISECOM%E7%BD%91%E5%85%B3%E8%AE%BE%E5%A4%87/RAISECOM%E7%BD%91%E5%85%B3%E8%AE%BE%E5%A4%87list_base_config.php%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [赛思 SuccezBl前台任意文件上传](docs/wy876_poc/%E8%B5%9B%E6%80%9D/%E8%B5%9B%E6%80%9D%20SuccezBl%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)
 * [AJ-Report开源数据大屏存在远程命令执行漏洞](docs/wy876_poc/AJ-Report/AJ-Report%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
+* [elgg-sqli](docs/wy876_poc/Elgg/elgg-sqli.md)
 * [ServiceNow-UI存在Jelly模板注入漏洞(CVE-2024-4879)](docs/wy876_poc/ServiceNow%20UI/ServiceNow-UI%E5%AD%98%E5%9C%A8Jelly%E6%A8%A1%E6%9D%BF%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-4879%29.md)
 * [三汇网关管理软件debug.php远程命令执行漏洞](docs/wy876_poc/%E4%B8%89%E6%B1%87%E7%BD%91%E5%85%B3%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/%E4%B8%89%E6%B1%87%E7%BD%91%E5%85%B3%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6debug.php%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [智邦国际ERP-GetPersonalSealData.ashx存在SQL注入漏洞](docs/wy876_poc/%E6%99%BA%E9%82%A6%E5%9B%BD%E9%99%85ERP/%E6%99%BA%E9%82%A6%E5%9B%BD%E9%99%85ERP-GetPersonalSealData.ashx%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
