@@ -1,3 +1,3 @@
 * [上一级](docs/wy876_poc/)
-* [天融信TOPSEC_maincgi.cgi远程命令执行](docs/wy876_poc/%E5%A4%A9%E8%9E%8D%E4%BF%A1/%E5%A4%A9%E8%9E%8D%E4%BF%A1TOPSEC_maincgi.cgi%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C.md)
 * [天融信TOPSEC_static_convert远程命令执行漏洞](docs/wy876_poc/%E5%A4%A9%E8%9E%8D%E4%BF%A1/%E5%A4%A9%E8%9E%8D%E4%BF%A1TOPSEC_static_convert%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
+* [天融信TOPSEC_maincgi.cgi远程命令执行](docs/wy876_poc/%E5%A4%A9%E8%9E%8D%E4%BF%A1/%E5%A4%A9%E8%9E%8D%E4%BF%A1TOPSEC_maincgi.cgi%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C.md)
