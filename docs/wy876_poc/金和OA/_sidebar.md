@@ -20,3 +20,4 @@
 * [金和OA-C6-download.jsp任意文件读取漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA-C6-download.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [金和OA任意文件读取漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [金和OA_SAP_B1Config.aspx未授权访问漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA_SAP_B1Config.aspx%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E.md)
+* [金和OA系统接口SignUpload.ashx存在SQL注入漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3SignUpload.ashx%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)

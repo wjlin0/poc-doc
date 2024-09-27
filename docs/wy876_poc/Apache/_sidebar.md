@@ -3,6 +3,7 @@
 * [Apache OFBiz SSRF && 任意配置读取](docs/wy876_poc/Apache/Apache%20OFBiz%20SSRF%20%26%26%20%E4%BB%BB%E6%84%8F%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.md)
 * [Apache-Submarine-SQL注入漏洞CVE-2023-37924](docs/wy876_poc/Apache/Apache-Submarine-SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9ECVE-2023-37924.md)
 * [Apache-OFBiz存在路径遍历导致RCE漏洞(CVE-2024-36104)](docs/wy876_poc/Apache/Apache-OFBiz%E5%AD%98%E5%9C%A8%E8%B7%AF%E5%BE%84%E9%81%8D%E5%8E%86%E5%AF%BC%E8%87%B4RCE%E6%BC%8F%E6%B4%9E%28CVE-2024-36104%29.md)
+* [Apache-Seata存在Hessian反序列化漏洞(CVE-2024-22399)](docs/wy876_poc/Apache/Apache-Seata%E5%AD%98%E5%9C%A8Hessian%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%28CVE-2024-22399%29.md)
 * [Apache Struts2 CVE-2023-50164](docs/wy876_poc/Apache/Apache%20Struts2%20CVE-2023-50164.md)
 * [Apache OFBiz 身份验证绕过漏洞 (CVE-2023-51467)](docs/wy876_poc/Apache/Apache%20OFBiz%20%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%20%28CVE-2023-51467%29.md)
 * [Apache-Kafka的UI中的远程代码执行CVE-2023-52251](docs/wy876_poc/Apache/Apache-Kafka%E7%9A%84UI%E4%B8%AD%E7%9A%84%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8CCVE-2023-52251.md)
