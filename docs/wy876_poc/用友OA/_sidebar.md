@@ -58,6 +58,7 @@
 * [用友时空KSOA接口com.sksoft.bill.QueryService存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8B%E6%97%B6%E7%A9%BAKSOA%E6%8E%A5%E5%8F%A3com.sksoft.bill.QueryService%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友GRP-U8-SelectDMJE.jsp_SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BGRP-U8-SelectDMJE.jsp_SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友CRM系统reservationcomplete.php存在逻辑漏洞直接登录后台](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BCRM%E7%B3%BB%E7%BB%9Freservationcomplete.php%E5%AD%98%E5%9C%A8%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E7%9B%B4%E6%8E%A5%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0.md)
+* [用友U8-CRM系统fillbacksetting.php存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8-CRM%E7%B3%BB%E7%BB%9Ffillbacksetting.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BGRP-U8-sqcxIndex.jsp%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友U8GRP-fastjson漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8GRP-fastjson%E6%BC%8F%E6%B4%9E.md)
 * [用友U8 Cloud-KeyWordReportQuery存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8%20Cloud-KeyWordReportQuery%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)

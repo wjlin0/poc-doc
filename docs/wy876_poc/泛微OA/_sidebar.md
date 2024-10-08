@@ -40,6 +40,7 @@
 * [泛微OA-E-Mobile移动管理平台lang2sql任意文件上传漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-Mobile%E7%A7%BB%E5%8A%A8%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0lang2sql%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-cology-LoginSSO.jsp存在QL注入漏洞(CNVD-2021-33202)](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-cology-LoginSSO.jsp%E5%AD%98%E5%9C%A8QL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CNVD-2021-33202%29.md)
 * [泛微e-cology接口getLabelByModule存在sql注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-cology%E6%8E%A5%E5%8F%A3getLabelByModule%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [泛微E-Mobile硬编码口令漏洞(XVE-2024-28095)](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Mobile%E7%A1%AC%E7%BC%96%E7%A0%81%E5%8F%A3%E4%BB%A4%E6%BC%8F%E6%B4%9E%28XVE-2024-28095%29.md)
 * [泛微e-cology9接口XmlRpcServlet存在任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-cology9%E6%8E%A5%E5%8F%A3XmlRpcServlet%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Office10-OfficeServer任意文件上传漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Office10-OfficeServer%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Office-jx2_config存在信息泄露漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Office-jx2_config%E5%AD%98%E5%9C%A8%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E.md)
