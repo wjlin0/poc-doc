@@ -1,4 +1,5 @@
 * [上一级](docs/wy876_poc/)
+* [大华智慧园区综合管理平台hasSubsystem存在文件上传漏洞](docs/wy876_poc/%E5%A4%A7%E5%8D%8E/%E5%A4%A7%E5%8D%8E%E6%99%BA%E6%85%A7%E5%9B%AD%E5%8C%BA%E7%BB%BC%E5%90%88%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0hasSubsystem%E5%AD%98%E5%9C%A8%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [大华DSS数字监控系统attachment_clearTempFile.action存在SQL注入漏洞](docs/wy876_poc/%E5%A4%A7%E5%8D%8E/%E5%A4%A7%E5%8D%8EDSS%E6%95%B0%E5%AD%97%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9Fattachment_clearTempFile.action%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [大华ICC智能物联综合管理平台存在fastjson漏洞](docs/wy876_poc/%E5%A4%A7%E5%8D%8E/%E5%A4%A7%E5%8D%8EICC%E6%99%BA%E8%83%BD%E7%89%A9%E8%81%94%E7%BB%BC%E5%90%88%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%E5%AD%98%E5%9C%A8fastjson%E6%BC%8F%E6%B4%9E.md)
 * [大华智慧园区管理平台任意文件读取](docs/wy876_poc/%E5%A4%A7%E5%8D%8E/%E5%A4%A7%E5%8D%8E%E6%99%BA%E6%85%A7%E5%9B%AD%E5%8C%BA%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96.md)

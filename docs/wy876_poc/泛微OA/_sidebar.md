@@ -3,6 +3,7 @@
 * [泛微 HrmCareerApplyPerView sql注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE%20HrmCareerApplyPerView%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微e-cology9接口XmlRpcServlet存在任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-cology9%E6%8E%A5%E5%8F%A3XmlRpcServlet%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [泛微-EMobile存在弱口令漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE-EMobile%E5%AD%98%E5%9C%A8%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%BC%8F%E6%B4%9E.md)
+* [泛微E-Cology系统接口CptInstock1Ajax存在SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Cology%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3CptInstock1Ajax%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微移动管理平台lang2sql接口任意文件上传](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE%E7%A7%BB%E5%8A%A8%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0lang2sql%E6%8E%A5%E5%8F%A3%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)
 * [泛微E-Mobile-messageType.do存在命令执行漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Mobile-messageType.do%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [泛微e-cology-ProcessOverRequestByXml接口存在任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-cology-ProcessOverRequestByXml%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
