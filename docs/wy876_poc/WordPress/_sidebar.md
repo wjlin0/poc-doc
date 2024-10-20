@@ -4,6 +4,7 @@
 * [WordPress-thimpress_hotel_booking存在代码执行漏洞](docs/wy876_poc/WordPress/WordPress-thimpress_hotel_booking%E5%AD%98%E5%9C%A8%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [WordPress的Business-Directory插件存在sql注入漏洞(CVE-2024-4443)](docs/wy876_poc/WordPress/WordPress%E7%9A%84Business-Directory%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-4443%29.md)
 * [WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522)](docs/wy876_poc/WordPress/WordPress%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6LearnPress%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-8522%29.md)
+* [WordPress插件GutenKit存在任意文件上传漏洞(CVE-2024-9234)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6GutenKit%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%28CVE-2024-9234%29.md)
 * [WordPress_LayerSlider插件SQL注入漏洞(CVE-2024-2879)](docs/wy876_poc/WordPress/WordPress_LayerSlider%E6%8F%92%E4%BB%B6SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-2879%29.md)
 * [WordPress插件GiveWP存在反序列漏洞(CVE-2024-5932)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6GiveWP%E5%AD%98%E5%9C%A8%E5%8F%8D%E5%BA%8F%E5%88%97%E6%BC%8F%E6%B4%9E%28CVE-2024-5932%29.md)
 * [WordPress插件Recall存在SQL注入漏洞(CVE-2024-32709)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6Recall%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-32709%29.md)
@@ -17,3 +18,4 @@
 * [wordpress listingo 文件上传漏洞](docs/wy876_poc/WordPress/wordpress%20listingo%20%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [WordPress-MasterStudy-LMS插件存在SQL注入漏洞(CVE-2024-1512)](docs/wy876_poc/WordPress/WordPress-MasterStudy-LMS%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-1512%29.md)
 * [WordPress_Wholesale_Market插件存在任意文件读取漏洞](docs/wy876_poc/WordPress/WordPress_Wholesale_Market%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+* [WordPress插件Tainacan存在前台任意文件读取漏洞(CVE-2024-7135)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6Tainacan%E5%AD%98%E5%9C%A8%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%28CVE-2024-7135%29.md)
