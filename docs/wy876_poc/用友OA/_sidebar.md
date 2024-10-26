@@ -47,6 +47,7 @@
 * [用友NC-Cloud_importhttpscer接口存在任意文件上传漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-Cloud_importhttpscer%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [用友NC_grouptemplet文件上传漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC_grouptemplet%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [用友时空KSOA-imagefield接口存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8B%E6%97%B6%E7%A9%BAKSOA-imagefield%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [用友U8-Cloud系统接口esnserver存在任意文件上传漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8-Cloud%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3esnserver%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [用友移动系统管理uploadApk接口存在任意文件上传](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8B%E7%A7%BB%E5%8A%A8%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86uploadApk%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)
 * [用友NC-saveDoc.ajax存在任意文件上传漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-saveDoc.ajax%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [用友GRP-U8-userInfoWeb存在SQL注入](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BGRP-U8-userInfoWeb%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5.md)

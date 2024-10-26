@@ -31,6 +31,7 @@
 * [泛微e-cology-v10远程代码执行漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-cology-v10%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [泛微ecology9系统接口ModeDateService存在SQL漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEecology9%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3ModeDateService%E5%AD%98%E5%9C%A8SQL%E6%BC%8F%E6%B4%9E.md)
 * [泛微OA-E-Cology-JqueryFileTree.jsp目录遍历漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-Cology-JqueryFileTree.jsp%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E6%BC%8F%E6%B4%9E.md)
+* [泛微e-Mobile移动管理平台error存在远程命令执行漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEe-Mobile%E7%A7%BB%E5%8A%A8%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0error%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [泛微ecology系统setup接口存在信息泄露漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEecology%E7%B3%BB%E7%BB%9Fsetup%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E.md)
 * [泛微getE9DevelopAllNameValue2接口存在任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEgetE9DevelopAllNameValue2%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [泛微OA-E-cology8-SptmForPortalThumbnail.jsp任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-cology8-SptmForPortalThumbnail.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
