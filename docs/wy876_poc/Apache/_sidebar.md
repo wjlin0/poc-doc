@@ -20,3 +20,4 @@
 * [Apache Ofbiz XML-RPC RCE漏洞-CVE-2023-49070](docs/wy876_poc/Apache/Apache%20Ofbiz%20XML-RPC%20RCE%E6%BC%8F%E6%B4%9E-CVE-2023-49070.md)
 * [Apache-ServiceComb存在SSRF漏洞(CVE-2023-44313)](docs/wy876_poc/Apache/Apache-ServiceComb%E5%AD%98%E5%9C%A8SSRF%E6%BC%8F%E6%B4%9E%28CVE-2023-44313%29.md)
 * [Apache ActiveMQ远程命令执行漏洞](docs/wy876_poc/Apache/Apache%20ActiveMQ%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
+* [Apache-Solr身份认证绕过导致任意文件读取漏洞复现(CVE-2024-45216)](docs/wy876_poc/Apache/Apache-Solr%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E5%AF%BC%E8%87%B4%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%28CVE-2024-45216%29.md)

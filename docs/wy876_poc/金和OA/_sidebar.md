@@ -1,5 +1,6 @@
 * [上一级](docs/wy876_poc/)
 * [金和OA_jc6_viewConTemplate.action存在FreeMarker模板注入漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA_jc6_viewConTemplate.action%E5%AD%98%E5%9C%A8FreeMarker%E6%A8%A1%E6%9D%BF%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [金和OA-C6系统接口ApproveRemindSetExec.aspx存在XXE漏洞(CNVD-2024-40568)](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA-C6%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3ApproveRemindSetExec.aspx%E5%AD%98%E5%9C%A8XXE%E6%BC%8F%E6%B4%9E%28CNVD-2024-40568%29.md)
 * [金和OA_CarCardInfo.aspx_SQL注入漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA_CarCardInfo.aspx_SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [金和OA-C6-download.jsp任意文件读取漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA-C6-download.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [金和OA_MailTemplates.aspx_SQL注入漏洞](docs/wy876_poc/%E9%87%91%E5%92%8COA/%E9%87%91%E5%92%8COA_MailTemplates.aspx_SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)

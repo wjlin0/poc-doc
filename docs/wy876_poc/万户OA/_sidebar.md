@@ -19,3 +19,4 @@
 * [万户OA-upload任意文件上传漏洞](docs/wy876_poc/%E4%B8%87%E6%88%B7OA/%E4%B8%87%E6%88%B7OA-upload%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [万户ezOFFICE协同管理平台receivefile_gd.jsp存在SQL注入漏洞](docs/wy876_poc/%E4%B8%87%E6%88%B7OA/%E4%B8%87%E6%88%B7ezOFFICE%E5%8D%8F%E5%90%8C%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0receivefile_gd.jsp%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [万户ezOFFICE系统接口filesendcheck_gd.jsp存在SQL注入漏洞](docs/wy876_poc/%E4%B8%87%E6%88%B7OA/%E4%B8%87%E6%88%B7ezOFFICE%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3filesendcheck_gd.jsp%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [万户ezoffice协同办公平台SignatureEditFrm存在SQL注入漏洞](docs/wy876_poc/%E4%B8%87%E6%88%B7OA/%E4%B8%87%E6%88%B7ezoffice%E5%8D%8F%E5%90%8C%E5%8A%9E%E5%85%AC%E5%B9%B3%E5%8F%B0SignatureEditFrm%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
