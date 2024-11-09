@@ -11,6 +11,7 @@
 * [泛微E-Cology接口getFileViewUrl存在SSRF漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Cology%E6%8E%A5%E5%8F%A3getFileViewUrl%E5%AD%98%E5%9C%A8SSRF%E6%BC%8F%E6%B4%9E.md)
 * [某微 E-Cology 某版本 SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%9F%90%E5%BE%AE%20E-Cology%20%E6%9F%90%E7%89%88%E6%9C%AC%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Mobile硬编码口令漏洞(XVE-2024-28095)](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Mobile%E7%A1%AC%E7%BC%96%E7%A0%81%E5%8F%A3%E4%BB%A4%E6%BC%8F%E6%B4%9E%28XVE-2024-28095%29.md)
+* [泛微E-Cology9平台QRcodeBuildAction存在身份认证绕过导致SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Cology9%E5%B9%B3%E5%8F%B0QRcodeBuildAction%E5%AD%98%E5%9C%A8%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E5%AF%BC%E8%87%B4SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微-EMobile存在弱口令漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE-EMobile%E5%AD%98%E5%9C%A8%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Office-jx2_config存在信息泄露漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Office-jx2_config%E5%AD%98%E5%9C%A8%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Mobile系统接口cdnfile存在任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Mobile%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3cdnfile%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)

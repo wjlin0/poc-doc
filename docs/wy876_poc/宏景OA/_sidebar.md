@@ -2,6 +2,7 @@
 * [宏景HCM-pos_dept_post存在SQL注入漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFHCM-pos_dept_post%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [宏景HCM系统fieldsettree接口存在SQL注入漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFHCM%E7%B3%BB%E7%BB%9Ffieldsettree%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFeHR-HCM-DisplayExcelCustomReport%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+* [宏景人力资源信息管理系统uploadLogo存在任意文件上传漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AF%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FuploadLogo%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [宏景HCM系统infoView处存在sql注入漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFHCM%E7%B3%BB%E7%BB%9FinfoView%E5%A4%84%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [宏景eHR人力资源管理软件showmediainfo存在SQL注入漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFeHR%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6showmediainfo%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [宏景eHR-OutputCode存在任意文件读取漏洞](docs/wy876_poc/%E5%AE%8F%E6%99%AFOA/%E5%AE%8F%E6%99%AFeHR-OutputCode%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
