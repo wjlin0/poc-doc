@@ -3,6 +3,7 @@
 * [用友GRPA++Cloud政府财务云存在任意文件读取漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BGRPA%2B%2BCloud%E6%94%BF%E5%BA%9C%E8%B4%A2%E5%8A%A1%E4%BA%91%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [用友U8GRP-fastjson漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8GRP-fastjson%E6%BC%8F%E6%B4%9E.md)
 * [用友NC-downCourseWare任意文件读取](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-downCourseWare%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96.md)
+* [用友YonBIP高级版yonbiplogin存在任意文件读取漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BYonBIP%E9%AB%98%E7%BA%A7%E7%89%88yonbiplogin%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [用友NC_saveImageServlet接口存在文件上传漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC_saveImageServlet%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [用友NC接口saveXmlToFIleServlet存在文件上传](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC%E6%8E%A5%E5%8F%A3saveXmlToFIleServlet%E5%AD%98%E5%9C%A8%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)
 * [用友U8-CRM系统接口attrlist存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8-CRM%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3attrlist%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)

@@ -13,6 +13,7 @@
 * [WordPress插件NotificationX存在sql注入漏洞(CVE-2024-1698)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6NotificationX%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-1698%29.md)
 * [WordPress Automatic Plugin任意文件下载漏洞(CVE-2024-27954)](docs/wy876_poc/WordPress/WordPress%20Automatic%20Plugin%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E6%BC%8F%E6%B4%9E%28CVE-2024-27954%29.md)
 * [WordPress-Automatic插件存在SQL注入漏洞(CVE-2024-27956)](docs/wy876_poc/WordPress/WordPress-Automatic%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-27956%29.md)
+* [WordPress的Meetup插件身份验证绕过漏洞(CVE-2024-50483)](docs/wy876_poc/WordPress/WordPress%E7%9A%84Meetup%E6%8F%92%E4%BB%B6%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%28CVE-2024-50483%29.md)
 * [Wordpress Backup Migration plugin 代码执行漏洞(CVE-2023-6553)](docs/wy876_poc/WordPress/Wordpress%20Backup%20Migration%20plugin%20%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2023-6553%29.md)
 * [WordPress-js-support-ticket存在文件上传漏洞](docs/wy876_poc/WordPress/WordPress-js-support-ticket%E5%AD%98%E5%9C%A8%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
 * [wordpress listingo 文件上传漏洞](docs/wy876_poc/WordPress/wordpress%20listingo%20%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
