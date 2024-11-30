@@ -6,6 +6,7 @@
 * [Apache-HertzBeat-SnakeYaml反序列化漏洞(CVE-2024-42323)](docs/wy876_poc/Apache/Apache-HertzBeat-SnakeYaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%28CVE-2024-42323%29.md)
 * [Apache OFBiz SSRF && 任意配置读取](docs/wy876_poc/Apache/Apache%20OFBiz%20SSRF%20%26%26%20%E4%BB%BB%E6%84%8F%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.md)
 * [Apache-Seata存在Hessian反序列化漏洞(CVE-2024-22399)](docs/wy876_poc/Apache/Apache-Seata%E5%AD%98%E5%9C%A8Hessian%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%28CVE-2024-22399%29.md)
+* [Apache-HertzBeat开源实时监控系统存在默认口令漏洞](docs/wy876_poc/Apache/Apache-HertzBeat%E5%BC%80%E6%BA%90%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%AD%98%E5%9C%A8%E9%BB%98%E8%AE%A4%E5%8F%A3%E4%BB%A4%E6%BC%8F%E6%B4%9E.md)
 * [Apache_Solr环境变量信息泄漏漏洞(CVE-2023-50290)](docs/wy876_poc/Apache/Apache_Solr%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F%E6%BC%8F%E6%B4%9E%28CVE-2023-50290%29.md)
 * [Apache-ActiveMQ-Jolokia-远程代码执行漏洞-CVE-2022-41678](docs/wy876_poc/Apache/Apache-ActiveMQ-Jolokia-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E-CVE-2022-41678.md)
 * [Apache-HugeGraph-Server远程代码执行漏洞(CVE-2024-27348)](docs/wy876_poc/Apache/Apache-HugeGraph-Server%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2024-27348%29.md)
