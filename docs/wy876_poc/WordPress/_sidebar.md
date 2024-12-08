@@ -11,6 +11,7 @@
 * [WordPress的Meetup插件身份验证绕过漏洞(CVE-2024-50483)](docs/wy876_poc/WordPress/WordPress%E7%9A%84Meetup%E6%8F%92%E4%BB%B6%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%28CVE-2024-50483%29.md)
 * [WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522)](docs/wy876_poc/WordPress/WordPress%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6LearnPress%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-8522%29.md)
 * [WordPress插件Bricks Builder存在RCE漏洞(CVE-2024-25600)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6Bricks%20Builder%E5%AD%98%E5%9C%A8RCE%E6%BC%8F%E6%B4%9E%28CVE-2024-25600%29.md)
+* [WordPress插件ElementorPageBuilder存在文件读取漏洞(CVE-2024-9935)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6ElementorPageBuilder%E5%AD%98%E5%9C%A8%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%28CVE-2024-9935%29.md)
 * [WordPress_Wholesale_Market插件存在任意文件读取漏洞](docs/wy876_poc/WordPress/WordPress_Wholesale_Market%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [WordPress-MasterStudy-LMS插件存在SQL注入漏洞(CVE-2024-1512)](docs/wy876_poc/WordPress/WordPress-MasterStudy-LMS%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-1512%29.md)
 * [WordPress Automatic Plugin任意文件下载漏洞(CVE-2024-27954)](docs/wy876_poc/WordPress/WordPress%20Automatic%20Plugin%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E6%BC%8F%E6%B4%9E%28CVE-2024-27954%29.md)
