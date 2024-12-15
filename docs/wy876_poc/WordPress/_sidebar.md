@@ -7,6 +7,7 @@
 * [WordPress插件Recall存在SQL注入漏洞(CVE-2024-32709)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6Recall%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-32709%29.md)
 * [WordPress-WebDirectory插件存在sql注入(CVE-2024-3552)](docs/wy876_poc/WordPress/WordPress-WebDirectory%E6%8F%92%E4%BB%B6%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5%28CVE-2024-3552%29.md)
 * [WordPress-thimpress_hotel_booking存在代码执行漏洞](docs/wy876_poc/WordPress/WordPress-thimpress_hotel_booking%E5%AD%98%E5%9C%A8%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
+* [WordPress插件query-console存在未授权RCE漏洞](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6query-console%E5%AD%98%E5%9C%A8%E6%9C%AA%E6%8E%88%E6%9D%83RCE%E6%BC%8F%E6%B4%9E.md)
 * [WordPress插件Tainacan存在前台任意文件读取漏洞(CVE-2024-7135)](docs/wy876_poc/WordPress/WordPress%E6%8F%92%E4%BB%B6Tainacan%E5%AD%98%E5%9C%A8%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%28CVE-2024-7135%29.md)
 * [WordPress的Meetup插件身份验证绕过漏洞(CVE-2024-50483)](docs/wy876_poc/WordPress/WordPress%E7%9A%84Meetup%E6%8F%92%E4%BB%B6%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%28CVE-2024-50483%29.md)
 * [WordPress系统插件LearnPress存在SQL注入漏洞(CVE-2024-8522)](docs/wy876_poc/WordPress/WordPress%E7%B3%BB%E7%BB%9F%E6%8F%92%E4%BB%B6LearnPress%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28CVE-2024-8522%29.md)
