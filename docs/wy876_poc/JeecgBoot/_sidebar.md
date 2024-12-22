@@ -5,4 +5,5 @@
 * [JeecgBoot反射型XSS漏洞](docs/wy876_poc/JeecgBoot/JeecgBoot%E5%8F%8D%E5%B0%84%E5%9E%8BXSS%E6%BC%8F%E6%B4%9E.md)
 * [JeecgBoot漏洞](docs/wy876_poc/JeecgBoot/JeecgBoot%E6%BC%8F%E6%B4%9E.md)
 * [JeecgBoot系统AviatorScript表达式注入漏洞](docs/wy876_poc/JeecgBoot/JeecgBoot%E7%B3%BB%E7%BB%9FAviatorScript%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [JeecgBoot系统接口passwordChange任意用户密码重置漏洞](docs/wy876_poc/JeecgBoot/JeecgBoot%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3passwordChange%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE%E6%BC%8F%E6%B4%9E.md)
 * [Jeecg-jeecgFormDemoController存在JNDI代码执行漏洞](docs/wy876_poc/JeecgBoot/Jeecg-jeecgFormDemoController%E5%AD%98%E5%9C%A8JNDI%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)

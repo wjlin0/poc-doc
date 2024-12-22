@@ -21,4 +21,5 @@
 * [Apache Ofbiz XML-RPC RCE漏洞-CVE-2023-49070](docs/wy876_poc/Apache/Apache%20Ofbiz%20XML-RPC%20RCE%E6%BC%8F%E6%B4%9E-CVE-2023-49070.md)
 * [Apache-HugeGraph-Server远程代码执行漏洞(CVE-2024-27348)](docs/wy876_poc/Apache/Apache-HugeGraph-Server%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2024-27348%29.md)
 * [Apache-ActiveMQ-Jolokia-远程代码执行漏洞-CVE-2022-41678](docs/wy876_poc/Apache/Apache-ActiveMQ-Jolokia-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E-CVE-2022-41678.md)
+* [Apache-Tomcat条件竞争致远程代码执行漏洞(CVE-2024-50379)](docs/wy876_poc/Apache/Apache-Tomcat%E6%9D%A1%E4%BB%B6%E7%AB%9E%E4%BA%89%E8%87%B4%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2024-50379%29.md)
 * [Apache-OFBiz授权不当致代码执行漏洞(CVE-2024-38856)](docs/wy876_poc/Apache/Apache-OFBiz%E6%8E%88%E6%9D%83%E4%B8%8D%E5%BD%93%E8%87%B4%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2024-38856%29.md)
