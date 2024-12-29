@@ -1,0 +1,2 @@
+* [上一级](docs/wy876_poc/)
+* [赛诸葛数字化智能中台系统login存在SQL注入漏洞](docs/wy876_poc/%E8%B5%9B%E8%AF%B8%E8%91%9B/%E8%B5%9B%E8%AF%B8%E8%91%9B%E6%95%B0%E5%AD%97%E5%8C%96%E6%99%BA%E8%83%BD%E4%B8%AD%E5%8F%B0%E7%B3%BB%E7%BB%9Flogin%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
