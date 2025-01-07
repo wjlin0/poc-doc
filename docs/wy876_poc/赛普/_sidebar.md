@@ -1,0 +1,3 @@
+* [上一级](docs/wy876_poc/)
+* [赛普EAP企业适配管理平台Upload存在任意文件上传漏洞](docs/wy876_poc/%E8%B5%9B%E6%99%AE/%E8%B5%9B%E6%99%AEEAP%E4%BC%81%E4%B8%9A%E9%80%82%E9%85%8D%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0Upload%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
+* [赛普EAP企业适配管理平台Download.aspx任意文件读取漏洞](docs/wy876_poc/%E8%B5%9B%E6%99%AE/%E8%B5%9B%E6%99%AEEAP%E4%BC%81%E4%B8%9A%E9%80%82%E9%85%8D%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0Download.aspx%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)

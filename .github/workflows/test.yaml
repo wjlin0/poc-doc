@@ -1,0 +1,37 @@
+name: Custom Script
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 设置为每天UTC时间的午夜执行，可以根据需要调整
+
+jobs:
+  custom_script:
+    name: Run Custom Script
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Execute custom script
+      run: |
+        mkdir -p docs && cd ./docs
+        git clone https://github.com/wy876/POC.git
+        cd POC && rm -rf .git && cd ../ && cp -r POC/* wy876_poc/ && rm -rf POC && cd ../
+        echo "$(date '+%Y-%m-%d %H:%M:%S')" > ./time
+        python update_sidebar.py
+        echo "当前目录：`pwd`"
+        echo "正在初始化远程仓库"
+        git add .
+        git config user.name "${{ secrets.USERNAME }}"
+        git config user.email "${{ secrets.EMAIL }}"
+        git commit -m "$(date '+%Y-%m-%d %H:%M')"
+        git push origin main -f
+        exit_status=$?
+      env:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"

@@ -1,0 +1,3 @@
+* [上一级](docs/wy876_poc/)
+* [Altenergy电力系统控制软件status_zigbee存在SQL注入漏洞](docs/wy876_poc/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E6%8E%A7%E5%88%B6%E8%BD%AF%E4%BB%B6/Altenergy%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E6%8E%A7%E5%88%B6%E8%BD%AF%E4%BB%B6status_zigbee%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [Altenergy电力系统控制软件set_timezone接口存在远程命令执行漏洞](docs/wy876_poc/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E6%8E%A7%E5%88%B6%E8%BD%AF%E4%BB%B6/Altenergy%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E6%8E%A7%E5%88%B6%E8%BD%AF%E4%BB%B6set_timezone%E6%8E%A5%E5%8F%A3%E5%AD%98%E5%9C%A8%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)

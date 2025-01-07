@@ -1,0 +1,2 @@
+* [上一级](docs/wy876_poc/)
+* [HANDLINK-ISS-7000v2网关login_handler.cgi未授权RCE漏洞](docs/wy876_poc/%E7%80%9A%E9%9C%96%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/HANDLINK-ISS-7000v2%E7%BD%91%E5%85%B3login_handler.cgi%E6%9C%AA%E6%8E%88%E6%9D%83RCE%E6%BC%8F%E6%B4%9E.md)

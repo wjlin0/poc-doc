@@ -1,0 +1,2 @@
+* [上一级](docs/wy876_poc/)
+* [国威HB1910数字程控电话交换机generate.php未授权RCE漏洞](docs/wy876_poc/%E6%B7%B1%E5%9C%B3%E5%9B%BD%E5%A8%81%E7%94%B5%E5%AD%90/%E5%9B%BD%E5%A8%81HB1910%E6%95%B0%E5%AD%97%E7%A8%8B%E6%8E%A7%E7%94%B5%E8%AF%9D%E4%BA%A4%E6%8D%A2%E6%9C%BAgenerate.php%E6%9C%AA%E6%8E%88%E6%9D%83RCE%E6%BC%8F%E6%B4%9E.md)

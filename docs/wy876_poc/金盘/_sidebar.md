@@ -1,0 +1,3 @@
+* [上一级](docs/wy876_poc/)
+* [金盘微信管理平台download.jsp任意文件读取漏洞](docs/wy876_poc/%E9%87%91%E7%9B%98/%E9%87%91%E7%9B%98%E5%BE%AE%E4%BF%A1%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0download.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+* [金盘移动图书馆系统存在任意文件上传漏洞](docs/wy876_poc/%E9%87%91%E7%9B%98/%E9%87%91%E7%9B%98%E7%A7%BB%E5%8A%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%B3%BB%E7%BB%9F%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
