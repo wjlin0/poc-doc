@@ -11,6 +11,7 @@
 * [泛微OA-E-Cology-JqueryFileTree.jsp目录遍历漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-Cology-JqueryFileTree.jsp%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Cology系统接口SignatureDownLoad存在SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Cology%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3SignatureDownLoad%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微E-Office10-OfficeServer任意文件上传漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Office10-OfficeServer%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
+* [泛微E-Office9文件上传漏洞(CVE-2023-2523)](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEE-Office9%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%28CVE-2023-2523%29.md)
 * [泛微OA-E-cology8-SptmForPortalThumbnail.jsp任意文件读取漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-cology8-SptmForPortalThumbnail.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
 * [泛微OA-E-Cology接口WorkflowServiceXml存在SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA-E-Cology%E6%8E%A5%E5%8F%A3WorkflowServiceXml%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [泛微云桥e-Bridge系统checkMobile存在SQL注入漏洞](docs/wy876_poc/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE%E4%BA%91%E6%A1%A5e-Bridge%E7%B3%BB%E7%BB%9FcheckMobile%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
