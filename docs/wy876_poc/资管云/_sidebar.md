@@ -1,6 +1,6 @@
 * [上一级](docs/wy876_poc/)
 * [百易云资产管理运营系统ticket.edit.php存在SQL注入漏洞](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E7%99%BE%E6%98%93%E4%BA%91%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9Fticket.edit.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
-* [资管云comfileup.php前台文件上传漏洞(XVE-2024-18154)](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E8%B5%84%E7%AE%A1%E4%BA%91comfileup.php%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%28XVE-2024-18154%29.md)
-* [百易云资产管理运营系统ufile.api.php存在SQL注入漏洞](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E7%99%BE%E6%98%93%E4%BA%91%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9Fufile.api.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [百易云资产管理运营系统house.save.php存在SQL注入漏洞](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E7%99%BE%E6%98%93%E4%BA%91%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9Fhouse.save.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [百易云资产管理运营系统ufile.api.php存在SQL注入漏洞](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E7%99%BE%E6%98%93%E4%BA%91%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9Fufile.api.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [资管云comfileup.php前台文件上传漏洞(XVE-2024-18154)](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E8%B5%84%E7%AE%A1%E4%BA%91comfileup.php%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E%28XVE-2024-18154%29.md)
 * [资产管理运营系统mobilefront2前台文件上传漏洞](docs/wy876_poc/%E8%B5%84%E7%AE%A1%E4%BA%91/%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9Fmobilefront2%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
