@@ -137,6 +137,7 @@
 * [用友U8-Cloud系统接口uapbd.refdef.query存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8-Cloud%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3uapbd.refdef.query%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友U8-Cloud接口FileManageServlet存在反序列漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8-Cloud%E6%8E%A5%E5%8F%A3FileManageServlet%E5%AD%98%E5%9C%A8%E5%8F%8D%E5%BA%8F%E5%88%97%E6%BC%8F%E6%B4%9E.md)
 * [用友NC-bill存在SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-bill%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
+* [用友NC接口checkekey存在SQL注入漏洞(XVE-2024-37013)](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC%E6%8E%A5%E5%8F%A3checkekey%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%28XVE-2024-37013%29.md)
 * [用友NC-Cloud接口blobRefClassSearch存在反序列化漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-Cloud%E6%8E%A5%E5%8F%A3blobRefClassSearch%E5%AD%98%E5%9C%A8%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E.md)
 * [用友 GRP-U8 bx_historyDataCheck.jsp SQL注入漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8B%20GRP-U8%20bx_historyDataCheck.jsp%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md)
 * [用友NC-Cloud接口blobRefClassSea存在反序列化漏洞](docs/wy876_poc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BNC-Cloud%E6%8E%A5%E5%8F%A3blobRefClassSea%E5%AD%98%E5%9C%A8%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E.md)
