@@ -1,5 +1,5 @@
 * [上一级](docs/wy876_poc/)
-* [九思OA系统upload_l.jsp存在任意文件上传漏洞](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E7%B3%BB%E7%BB%9Fupload_l.jsp%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
-* [九思OA系统workflowSync.getUserStatusByRole.dwr存在SQL注入](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E7%B3%BB%E7%BB%9FworkflowSync.getUserStatusByRole.dwr%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5.md)
-* [九思OA接口WebServiceProxy存在XXE漏洞](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E6%8E%A5%E5%8F%A3WebServiceProxy%E5%AD%98%E5%9C%A8XXE%E6%BC%8F%E6%B4%9E.md)
 * [九思OA接口dl.jsp任意文件读取漏洞](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E6%8E%A5%E5%8F%A3dl.jsp%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+* [九思OA系统workflowSync.getUserStatusByRole.dwr存在SQL注入](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E7%B3%BB%E7%BB%9FworkflowSync.getUserStatusByRole.dwr%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5.md)
+* [九思OA系统upload_l.jsp存在任意文件上传漏洞](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E7%B3%BB%E7%BB%9Fupload_l.jsp%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
+* [九思OA接口WebServiceProxy存在XXE漏洞](docs/wy876_poc/%E4%B9%9D%E6%80%9DOA/%E4%B9%9D%E6%80%9DOA%E6%8E%A5%E5%8F%A3WebServiceProxy%E5%AD%98%E5%9C%A8XXE%E6%BC%8F%E6%B4%9E.md)

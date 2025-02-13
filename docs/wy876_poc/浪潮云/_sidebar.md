@@ -1,5 +1,5 @@
 * [上一级](docs/wy876_poc/)
-* [浪潮云财务系统bizintegrationwebservice.asmx存在命令执行漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/%E6%B5%AA%E6%BD%AE%E4%BA%91%E8%B4%A2%E5%8A%A1%E7%B3%BB%E7%BB%9Fbizintegrationwebservice.asmx%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
-* [浪潮云财务系统xtdysrv.asmx存在命令执行漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/%E6%B5%AA%E6%BD%AE%E4%BA%91%E8%B4%A2%E5%8A%A1%E7%B3%BB%E7%BB%9Fxtdysrv.asmx%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [HCM-Cloud云端专业人力资源平台download任意文件读取漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/HCM-Cloud%E4%BA%91%E7%AB%AF%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%B9%B3%E5%8F%B0download%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+* [浪潮云财务系统xtdysrv.asmx存在命令执行漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/%E6%B5%AA%E6%BD%AE%E4%BA%91%E8%B4%A2%E5%8A%A1%E7%B3%BB%E7%BB%9Fxtdysrv.asmx%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
+* [浪潮云财务系统bizintegrationwebservice.asmx存在命令执行漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/%E6%B5%AA%E6%BD%AE%E4%BA%91%E8%B4%A2%E5%8A%A1%E7%B3%BB%E7%BB%9Fbizintegrationwebservice.asmx%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
 * [浪潮云财务系统UploadListFile存在任意文件上传漏洞](docs/wy876_poc/%E6%B5%AA%E6%BD%AE%E4%BA%91/%E6%B5%AA%E6%BD%AE%E4%BA%91%E8%B4%A2%E5%8A%A1%E7%B3%BB%E7%BB%9FUploadListFile%E5%AD%98%E5%9C%A8%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E.md)
